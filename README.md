@@ -45,6 +45,8 @@ Each algorithm is analyzed and compared on the basis of:
 g++ main.cpp Algorithms.cpp comparision.cpp -o os_project
 ./os_project          # Linux/Mac
 .\os_project.exe      # Windows PowerShell
+``` 
+---
 
 ### 2. ✅ You'll be prompted:
 enter the no. of requests:
@@ -52,7 +54,8 @@ enter the no. of requests:
 📝 Example:
 If input.txt contains 100+ numbers, and you want to test with just the first 8, type:8
 
-📊 Run Python Visualizations
+---
+### 3. 📊 Run Python Visualizations
 Make sure you have Python 3 with matplotlib and numpy:
 pip install matplotlib numpy
 Then run the graph scripts:
@@ -60,7 +63,8 @@ python plot.py        # Line plot of seek order
 python result.py      # Grouped bar chart of all algorithms
 python bestAlgo.py    # Bar chart of best algorithm
 
-📈 Sample Output
+---
+### 4. 📈 Sample Output
 ✅ Terminal comparison table with algorithm performance
 ✅ CSV exports (Result.csv, Seek_Order.csv, bestAlgo.csv)
 ✅ Python-generated graphs:
@@ -68,7 +72,8 @@ Seek order line plot
 Metric-wise grouped bar charts
 Best algorithm analysis chart
 
-📦Requirements
+---
+### 5.📦Requirements
 g++ compiler (Linux/Mac/MinGW on Windows)
 Python 3.x
 Python libraries: matplotlib, numpy
