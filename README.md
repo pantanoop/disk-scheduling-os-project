@@ -78,12 +78,14 @@ g++ compiler (Linux/Mac/MinGW on Windows)
 Python 3.x
 Python libraries: matplotlib, numpy
 
+---
 🤝 Contributing
 This project is built for educational purposes. Contributions, suggestions, or improvements are welcome!
 
+---
 📝 License
 This project is for academic/non-commercial use only. Customize freely for your university or personal learning use.
-
+---
 👨‍💻 Author
 Anoop Pant
 B.Tech – Computer Science & Engineering
