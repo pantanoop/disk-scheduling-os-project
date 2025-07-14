@@ -1,0 +1,12 @@
+# Ignore executables and temp files
+*.exe
+*.o
+*.obj
+*.pyc
+__pycache__/
+
+# Ignore result files
+*.csv
+
+# VS Code settings (optional)
+.vscode/
