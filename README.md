@@ -46,7 +46,7 @@ g++ main.cpp Algorithms.cpp comparision.cpp -o os_project
 ./os_project          # Linux/Mac
 .\os_project.exe      # Windows PowerShell
 
-You'll be prompted:
+### 2. ✅ You'll be prompted:
 enter the no. of requests:
 📌 At this prompt, enter how many requests you want to process from input.txt.
 📝 Example:
